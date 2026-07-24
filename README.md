@@ -1,6 +1,7 @@
 # Projek UAS Machine Learning End-to-End
 
-**Nama Mahasiswa**: NIM 1003240018  
+**Nama Mahasiswa**: Sahrul Solihin
+**NIM** : 1003240018
 **Mata Kuliah**: Machine Learning End-to-End (Semester Ganjil 2026/2027)  
 **Institut Teknologi Tangerang Selatan (ITTS)**  
 **Pilihan Kasus**: Kasus B — Regresi: Estimasi Harga Kendaraan Bekas
@@ -43,7 +44,7 @@ Proyek ini dibangun dan diuji menggunakan versi package sebagai berikut:
 
 ### Step 1: Clone Repositori & Buat Virtual Environment
 ```bash
-git clone https://github.com/username/uas-ml-1003240018.git
+git clone https://github.com/sahrulsolihin/uas-ml-1003240018.git
 cd uas-ml-1003240018
 
 # Buat virtual environment
