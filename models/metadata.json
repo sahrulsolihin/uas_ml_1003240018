@@ -1,0 +1,43 @@
+{
+    "best_model": "Ridge Regressor",
+    "cv_r2_score": -0.02258143056956343,
+    "cv_mae": 23820.116788770007,
+    "cv_rmse": 27488.993759826477,
+    "all_models_cv": {
+        "Linear Regression": {
+            "r2_mean": -0.02754951879634602,
+            "r2_std": 0.009219440679699315,
+            "mae_mean": 23857.70846072889,
+            "rmse_mean": 27555.95152292787
+        },
+        "Ridge Regressor": {
+            "r2_mean": -0.02258143056956343,
+            "r2_std": 0.00792476831957748,
+            "mae_mean": 23820.116788770007,
+            "rmse_mean": 27488.993759826477
+        },
+        "Random Forest": {
+            "r2_mean": -0.029876606331654676,
+            "r2_std": 0.023901354061895298,
+            "mae_mean": 23774.151393530577,
+            "rmse_mean": 27586.375988784897
+        },
+        "Hist Gradient Boosting": {
+            "r2_mean": -0.10825190836898853,
+            "r2_std": 0.02546512916255322,
+            "mae_mean": 24415.31984943068,
+            "rmse_mean": 28613.00358383946
+        }
+    },
+    "features": [
+        "Brand",
+        "Engine Size",
+        "Fuel Type",
+        "Transmission",
+        "Mileage",
+        "Condition",
+        "Model",
+        "Car_Age"
+    ],
+    "training_timestamp": "2026-07-23T22:29:30.110677"
+}
