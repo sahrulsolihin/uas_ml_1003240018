@@ -1,7 +1,6 @@
 # Projek UAS Machine Learning End-to-End
 
 **Nama Mahasiswa**: Sahrul Solihin
-**NIM** : 1003240018
 **Mata Kuliah**: Machine Learning End-to-End (Semester Ganjil 2026/2027)  
 **Institut Teknologi Tangerang Selatan (ITTS)**  
 **Pilihan Kasus**: Kasus B — Regresi: Estimasi Harga Kendaraan Bekas
